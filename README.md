@@ -7,7 +7,7 @@ public class Solution {
         long totalSum = 0;
         for (int num : nums) {
             totalSum += num;
-        }
+        }mmmm
         
         long leftSum = 0;
         int count = 0;
