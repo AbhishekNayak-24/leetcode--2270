@@ -8,6 +8,7 @@ public class Solution {
         for (int num : nums) {
             totalSum += num;
         }mmmm
+        jjjj
         
         long leftSum = 0;
         int count = 0;
