@@ -9,7 +9,7 @@ public class Solution {
             totalSum += num;
         }mmmm
         jjjj
-        
+        hhhh
         long leftSum = 0;
         int count = 0;
         for (int i = 0; i < n - 1; i++) {
