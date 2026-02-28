@@ -2,7 +2,7 @@
 Number Of Ways To Split Array
 // code in java
 public class Solution {
-    public int waysToSplitArray(int[] nums) {
+    public int waysToSplitArray(int[] nums) {llll
         int n = nums.length;kkkkk
         long totalSum = 0;
         for (int num : nums) {
