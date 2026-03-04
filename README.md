@@ -13,7 +13,7 @@ public class Solution {
         long leftSum = 0;
         int count = 0;
         for (int i = 0; i < n - 1; i++) {
-            leftSum += nums[i];
+            leftSum += nums[i];iiiiii
             long rightSum = totalSum - leftSum;
             if (leftSum >= rightSum) {
                 count++;
