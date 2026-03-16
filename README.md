@@ -10,7 +10,7 @@ public class Solution {
         }mmmm
         jjjj
         hhhh
-        long leftSum = 0;
+        long leftSum = 0;yyyy
         int count = 0;
         for (int i = 0; i < n - 1; i++) {
             leftSum += nums[i];iiiiii
