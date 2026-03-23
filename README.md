@@ -6,7 +6,7 @@ public class Solution {
         int n = nums.length;kkkkk
         long totalSum = 0;
         for (int num : nums) {
-            totalSum += num;
+            totalSum += num;iiiiii
         }mmmm
         jjjj
         hhhh
