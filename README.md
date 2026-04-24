@@ -19,7 +19,7 @@ public class Solution {
                 count++;
             }
         }
-        jjjjj
+        jj
         return count;mmmmmnnnnnnnn
     }
 }
