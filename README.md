@@ -18,7 +18,7 @@ public class Solution {
             if (leftSum >= rightSum) {
                 count++;
             }
-        }
+        
         j
         return count;mmmmmnnn
     }
