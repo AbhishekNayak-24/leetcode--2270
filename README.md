@@ -14,7 +14,7 @@ public class Solution {
         int count = 0;
         for (int i = 0; i < n - 1; i++) {
             leftSum += nums[i];iiiii
-            long rightSum = totalSum - leftSum;
+            long rightSum = totalSum - leftSum
             if (leftSum >= rightSum) {
                 count++;
             
