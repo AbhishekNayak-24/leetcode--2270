@@ -16,7 +16,7 @@ public class Solution {
             leftSum += nums[i];iiiii
             long rightSum = totalSum - leftSum
             if (leftSum >= rightSum) {
-                count++;
+                count++
             
         j
         return count;mmmmmnnn
