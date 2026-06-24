@@ -18,4 +18,4 @@ public class Solution {
             if (leftSum >= rightSum) {
                 count++
         return count;mmmmmnnn
-    ll
+    
